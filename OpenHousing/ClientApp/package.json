@@ -17,5 +17,11 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nertner/open-housing.git"
+  },
+  "description": "An open source form for collecting housing applicant information.",
+  "license": ""
 }
